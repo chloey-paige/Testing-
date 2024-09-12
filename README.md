@@ -3,7 +3,7 @@
 **_Table of Contance_**
 
 - [Parts of the Heart](#Parts-of-the-Heart)              
-- [Heart Walls, Chambers, and Valves ](#Heart-Walls,-Chambers,-and-Valves)                                                                                                                                                                                                                                                                       
+- [Heart Walls, Chambers, and Valves ](#Heart-Walls-,-Chambers-,-and-Valves)                                                                                                                                                                                                                                                                       
 
 ## Parts of the Heart 
 
