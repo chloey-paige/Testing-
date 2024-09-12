@@ -42,7 +42,8 @@ Your heart pumps blood through three types of blood vessels:
 
 Arteries carry oxygen-rich blood from your heart to your body’s tissues. The exception is your pulmonary arteries, which go to your lungs.
 Veins carry oxygen-poor blood back to your heart.
-Capillaries are small blood vessels where your body exchanges oxygen-rich and oxygen-poor blood.
+Capillaries are small blood vessels where your body exchanges oxygen-rich and oxygen-poor blood
+![images](https://github.com/user-attachments/assets/55096ea4-263f-4673-86c8-b5a37b46f197).
 
 Your heart receives nutrients through a network of coronary arteries. These arteries run along your heart’s surface. They serve the heart itself and include the:
 
@@ -50,4 +51,4 @@ Left coronary artery: Divides into two branches (the circumflex artery and the l
 Circumflex artery: Supplies blood to the left atrium and the side and back of the left ventricle.
 Left anterior descending artery (LAD): Supplies blood to the front and bottom of the left ventricle and the front of the septum.
 Right coronary artery (RCA): Supplies blood to the right atrium, right ventricle, bottom portion of the left ventricle and back of the septum.
-![images](https://github.com/user-attachments/assets/55096ea4-263f-4673-86c8-b5a37b46f197)
+
