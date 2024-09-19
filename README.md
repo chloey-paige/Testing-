@@ -6,7 +6,8 @@
 - [Heart Walls, Chambers, and Valves ](#Heart-Walls-,-Chambers-,-and-Valves)
 - [Blood vessels and Coronary arteries](#Blood-vessels-and-Coronary-arteries)
 - [where is the heart located and what does it look like](#where-is-the-heart-located-and-what-does-it-look-like?)
-- [Conditions and Disorders](#Conditions-and-Disorders)                                                                                                                                                                                                                                                               
+- [Conditions and Disorders](#Conditions-and-Disorders)
+- [care](#care- )                                                                                                                                                                                                                                                   
 
 ## Parts of the Heart 
 
