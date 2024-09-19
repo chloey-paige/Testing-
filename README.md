@@ -4,7 +4,9 @@
 
 - [Parts of the Heart](#Parts-of-the-Heart)              
 - [Heart Walls, Chambers, and Valves ](#Heart-Walls-,-Chambers-,-and-Valves)
-- [Blood vessels and Coronary arteries](#Blood-vessels-and-Coronary-arteries)                                                                                                                                                                                                                                                                    
+- [Blood vessels and Coronary arteries](#Blood-vessels-and-Coronary-arteries)
+- [where is the heart located and what does it look like](#where-is-the-heart-located-and-what-does-it-look-like?)
+- [Conditions and Disorders](#Conditions-and-Disorders)                                                                                                                                                                                                                                                               
 
 ## Parts of the Heart 
 
@@ -51,4 +53,94 @@ Left coronary artery: Divides into two branches (the circumflex artery and the l
 Circumflex artery: Supplies blood to the left atrium and the side and back of the left ventricle.
 Left anterior descending artery (LAD): Supplies blood to the front and bottom of the left ventricle and the front of the septum.
 Right coronary artery (RCA): Supplies blood to the right atrium, right ventricle, bottom portion of the left ventricle and back of the septum.
+
+
+## where is the heart located and what does it look like?
+
+
+Your heart looks a little bit like an upside-down pyramid with rounded edges. Large blood vessels go into and out of your heart to bring blood into and away from your heart. They connect your heart to the rest of your body, which it supplies with blood and oxygen. Your heart looks a little bit like an upside-down pyramid with rounded 
+edges. Large blood vessels go into and out of your heart to bring blood into and away from your heart.
+![images](https://github.com/user-attachments/assets/a3b63456-86c9-4a98-bf8b-690d6bb62cfa)
+![images](https://github.com/user-attachments/assets/7fe1125b-d9f4-4cfe-bf1d-5e4b610683d3)
+They connect your heart to the rest of your body, which it supplies with blood and oxygen. Everyone’s heart is a slightly different size. Generally, your heart is about the same size as your fist. On average, an adult’s heart weighs about 
+10 ounces. Your heart may weigh a little more or a little less, depending on your body size and sex.
+
+
+## Conditions and Disorders
+
+What are the common conditions and disorders that affect your heart?
+Heart conditions are among the most common types of disorders. In the United States, heart disease is the leading cause of death.
+
+### Common conditions that affect your heart include:
+
+- Arrhythmia: A heartbeat that’s too fast, too slow or beats with an irregular rhythm.
+- cardiomyopathy: Unusual thickening, enlargement or stiffening of your heart muscle.
+- Congestive heart failure: Your heart is too stiff or too weak to properly pump blood throughout your body.
+- Coronary artery disease: Plaque buildup that leads to narrow coronary arteries.
+- Diabetes: Your blood sugar is higher than it should be.
+- Heart attack (myocardial infarction): A sudden coronary artery blockage that cuts off oxygen to part of your heart muscle.
+- Heart valve disease: A valve in your heart isn’t working right.
+- High blood pressure: Your blood is pushing too hard against your artery walls.
+- High cholesterol: Your blood has too many fats in it.
+- Pericarditis: Inflammation in your heart’s lining (pericardium).
+- Common signs or symptoms of heart conditions
+
+### Symptoms of heart conditions include:
+
+- Chest pain.
+- Heart palpitations.
+- Dizziness.
+- Shortness of breath.
+- Fatigue.
+- Swelling in your lower body.
+- Common tests to check the health of your heart
+
+### Tests to check your heart health include:
+
+- Blood pressure measurement.
+- Electrocardiogram (EKG).
+- Echocardiogram.
+- Chest X-ray.
+- Blood tests.
+- Cardiac catheterization.
+- Computed tomography (CT).
+- Heart MRI (magnetic resonance imaging).
+- Stress test.
+- Common treatments for the heart
+
+### Treatments for heart conditions include:
+
+- Medicine to lower blood pressure or prevent clotting, for example.
+- Changes to daily habits, like what you eat and how much physical activity you get.
+- Medical devices like a pacemaker.
+- Procedures like catheter ablation or angioplasty.
+- Operations like coronary artery bypass surgery or a valve replacement.
+
+
+## care 
+
+How can I keep my heart healthy?
+If you have a condition that affects your heart, follow your healthcare provider’s treatment plan. It’s important to take medications at the right times and in the right amounts.
+
+### You can also make lifestyle changes to keep your heart healthy. You can strive to:
+
+- chieve and maintain a weight that’s healthy for you.
+- Drink alcohol in moderation.
+- Eat heart-healthy foods like plenty of fruits, vegetables and whole grains.
+- Be physically active for at least 150 minutes per week.
+- Limit how much sodium you consume.
+- Manage your stress with healthy strategies like meditation or journaling.
+- Quit smoking and/or using tobacco products and avoid secondhand smoke. If you smoke, ask a healthcare provider for resources to help you quit.
+
+
+
+
+
+
+
+
+
+
+
+
 
